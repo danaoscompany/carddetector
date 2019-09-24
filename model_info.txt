@@ -1,0 +1,6 @@
+bca
+blue_paper
+blue_phones
+ktp
+mastercard
+sim
